@@ -25,6 +25,12 @@ Using SQL, I conducted a detailed analysis to answer several key questions:
    - 4a. Average release speed, spin rate, strikeouts, and most popular zone.
    - 4b. Pitches that caused the lowest launch speed.
 
-Through this project, I showcased my ability to clean and manipulate data using Excel and SQL while answering complex queries related to baseball statistics. This project is an in-depth exploration of data analysis in sports using a combination of multiple tools and techniques.
+To support the analysis, I included a visual representation of the baseball pitching zones, which divides the strike zone into four sections: **Heart**, **Shadow**, **Chase**, and **Waste**. 
+![image](https://github.com/user-attachments/assets/ada5cbfb-afc8-450c-8803-88595bce678a)
+
+Each of these zones plays a critical role in understanding pitch strategy and outcomes. You can find the detailed explanation of the columns in the datasets by visiting [Baseball Savant's CSV documentation](https://baseballsavant.mlb.com/csv-docs), which clarifies the data used in the analysis.
+
+This project highlights my ability to clean and manipulate sports data using Excel and SQL while answering complex queries related to baseball statistics, showcasing practical data analysis skills.
+
 
 
