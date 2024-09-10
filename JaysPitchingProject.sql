@@ -148,10 +148,6 @@ Order by count(*) desc
 
 --Q4 Analysis of Alek Manoah
 
---Select *
---From JaysPitching.dbo.LastPitchJays as LPJ
---Join JaysPitching.dbo.JaysPitchingStats as JPS On JPS.pitcher_id = LPJ.pitcher
-
 --4a AVG Release Speed, spin rate, strikeouts, most popular zone only using LastPitchRays
 Select 
 	AVG(release_speed) as Avg_Release_Speed,
